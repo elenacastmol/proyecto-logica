@@ -17,18 +17,13 @@ A lo largo del proyecto se han aplicado consultas básicas y avanzadas para demo
 
 ## Estructura del Proyecto
 
-proyecto-logica/
-├── esquema-vista.png
-│ └── Esquema de la base de datos con vista incluida
-│
-├── esquema.png
-│ └── Esquema de la base de datos del proyecto
-│
-├── proyecto-logica.sql
-│ └── Archivo con todas las consultas SQL resueltas.
-│ Cada consulta está identificada con su número y su enunciado en forma de comentario.
-│
-└── README.md
+```
+📁 proyecto-logica
+├── 🖼️ esquema-vista.png → Esquema con vista incluida
+├── 🖼️ esquema.png → Esquema de la base de datos
+├── 🧾 proyecto-logica.sql → Consultas SQL resueltas con sus enunciados.
+└── 📘 README.md
+```
 
 
 ## Instalación y Requisitos
