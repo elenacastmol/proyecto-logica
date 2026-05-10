@@ -34,25 +34,25 @@ A lo largo del proyecto se han aplicado consultas básicas y avanzadas para demo
 ## Pasos seguidos durante el proyecto
 
 ### 1. Preparación del entorno
-Se instaló y configuró PostgreSQL como motor de base de datos, y DBeaver como cliente para gestionar la conexión y ejecutar consultas.
+Se instaló y configuró PostgreSQL como motor de base de datos, y DBeaver para gestionar la conexión y ejecutar las consultas.
 
 
 ### 2. Análisis inicial del esquema
-Se estudió el esquema entregado para identificar tablas, claves primarias, claves foráneas y relaciones entre entidades.
+Se estudió el esquema entregado para identificar tablas, claves primarias, claves foráneas y relaciones entre las mismas.
 
 ### 3. Resolución de consultas 
 Se trabajó con consultas sobre una sola tabla, utilizando `SELECT`, `WHERE`, `ORDER BY` y funciones de agregación como `COUNT`, `SUM`, `AVG`, `MIN` y `MAX`. Se desarrollaron consultas que requerían relaciones entre varias tablas mediante `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` , `FULL JOIN`. 
 
-Se resolvieron ejercicios que requerían obtener primero un valor intermedio para utilizarlo en la consulta principal, subconsultas. 
+Se resolvieron ejercicios que requerían obtener primero un valor para utilizarlo en la consulta principal, las subconsultas. 
 
-El proyecto también incluye el uso de vistas como recurso para agrupar consultas reutilizables y mejorar la organización del trabajo, que permiten simplificar la lectura y obtener estructuras reutilizables.
+El proyecto también incluye el uso de vistas como recurso para agrupar consultas reutilizables y mejorar la organización del trabajo, que permiten simplificar la lectura y obtener consultas reutilizables.
 
-Se crearon tablas temporales para almacenar resultados intermedios. Este tipo de estructuras resulta útil para trabajar durante una sesión concreta sin modificar de forma permanente la base de datos.
+Se crearon tablas temporales para almacenar resultados. Las tablas resultan utiles para trabajar durante una sesión concreta sin modificar de forma permanente la base de datos.
 
 ### 8. Verificación 
-Cada consulta fue ejecutada, revisada y corregida en DBeaver para asegurar que la sintaxis fuera válida y que los resultados coincidieran con lo solicitado en cada ejercicio.
+Cada consulta fue ejecutada y revisada en DBeaver para asegurar que la sintaxis fuera válida y que los resultados coincidieran con lo solicitado en cada ejercicio.
 
-En esta fase se detectaron y corrigieron errores de agrupación, duplicados, uso incorrecto de join, entre otros.
+En esta fase se detectaron y corrigieron errores de agrupación, subconsultas, uso incorrecto de join, entre otros.
 
 
 
