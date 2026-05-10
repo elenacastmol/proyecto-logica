@@ -1,6 +1,7 @@
 # 📊 Proyecto Lógica: SQL con PostgreSQL y DBeaver
 
 ## 📌 Índice
+
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Estructura del proyecto](#estructura-del-proyecto)
 - [Instalación y Requisitos](#instalación-y-requisitos)
