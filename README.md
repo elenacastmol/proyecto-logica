@@ -45,7 +45,7 @@ Se trabajó con consultas sobre una sola tabla, utilizando `SELECT`, `WHERE`, `O
 
 Se resolvieron ejercicios que requerían obtener primero un valor para utilizarlo en la consulta principal, las subconsultas. 
 
-El proyecto también incluye el uso de vistas como recurso para agrupar consultas reutilizables y mejorar la organización del trabajo, que permiten simplificar la lectura y obtener consultas reutilizables.
+El proyecto también incluye el uso de vistas como recurso para agrupar consultas reutilizables y mejorar la organización del trabajo, permitiendo simplificar la lectura.
 
 Se crearon tablas temporales para almacenar resultados. Las tablas resultan utiles para trabajar durante una sesión concreta sin modificar de forma permanente la base de datos.
 
@@ -58,7 +58,7 @@ En esta fase se detectaron y corrigieron errores de agrupación, subconsultas, u
 
 ## Resultado y Conclusiones
 
-El proyecto ha permitido reforzar la comprensión y la capacidad de interpretar correctamente un enunciado antes de escribir una consulta SQL.
+El proyecto ha permitido reforzar la comprensión y la capacidad de interpretar un enunciado antes de escribir una consulta SQL.
 
 Uno de los aprendizajes más costoso ha sido distinguir cuándo un ejercicio requiere una relación y qué tipo (‘JOIN’) entre varias tablas, o una subconsulta. 
 
