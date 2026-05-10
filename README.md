@@ -4,7 +4,8 @@
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Estructura del proyecto](#estructura-del-proyecto)
 - [Instalación y Requisitos](#instalación-y-requisitos)
-- [Resultado y Conclusiones](#resultados-y-conclusiones)
+- [Pasos seguidos durante el proyecto](#pasos-seguidos-durante-el-proyecto)
+- [Resultado y Conclusiones](#resultado-y-conclusiones)
 
 
 ## 🧾 Descripción del proyecto
